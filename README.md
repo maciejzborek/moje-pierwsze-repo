@@ -1,1 +1,3 @@
-# moje-pierwsze-repo
+# testowe repo
+*- zalozenia*
+*- metodyka*
